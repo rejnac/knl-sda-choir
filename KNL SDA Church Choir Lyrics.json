@@ -1,0 +1,2133 @@
+{
+  "Songs": [
+    {
+      "ID": 1,
+      "Guid": "K0tWgQr/CEGM1XE4VGhbsw",
+      "Verses": [
+        {
+          "Text": "Nayajua matendo yako, kuwa u baridi wala moto, ingekuwa heri uwe moto (au baridi asema bwana)*2 "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Bwana nakuhitaji mnyonge kipofu maskini mlika, angaza, njiani mwangu, bwana wangu nakuhutaji "
+        },
+        {
+          "ID": 2,
+          "Text": "Nakupa shauri ununue kwangu dhahabu iliyo safi na mavazi meupe uvae uchi wako usionekane, dawa ya macho upate ona \nBass (Lakini)  (T & B)wewe wasema kuwa u tajiri huna haja ya kitu chochote, basi kwa sababu u vuguvugu, kinywani mwangu n'takutapita "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Bwana nakuhitaji mnyonge kipofu maskini mlika, angaza, njiani mwangu, bwana wangu nakuhutaji\nEe bwana aaa, nakuhitaji, uwe wangu wamaishaa*2 "
+        }
+      ],
+      "Text": "Nayajua"
+    },
+    {
+      "ID": 2,
+      "Guid": "d0+l81zySkW5s0BlTu9PLw",
+      "Verses": [
+        {
+          "Text": "Usiku giza nene latanda kote, shetani atawala ndani ya giza kuu lakini pana mwanga juu ya kiango mwanga huo ndiye yesu. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Mwanga mkuu×2 ndiye yesu (atawala) ×2 nchi yote (anarudi na tuende patakatifu mbinguni). "
+        },
+        {
+          "ID": 2,
+          "Text": "(sop,alto,tenor )Nilikua ndani,ndani ya giza,yesu akaja, kafa msalabani, kaniokoa dhambi zangu zote,niko huru,huru kweli. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Mwanga mkuu×2 ndiye yesu (atawala) ×2 nchi yote (anarudi na tuende patakatifu mbinguni). "
+        },
+        {
+          "ID": 3,
+          "Text": "Sumbuko lako lipi, mwenzangu aloshindwa yesu, njoo, njoo kwake twende, twende Tupumzike machozi yetu atayafuta furaha ni ya milele. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Mwanga mkuu×2 ndiye yesu (atawala) ×2 nchi yote (anarudi na tuende patakatifu mbinguni). "
+        }
+      ],
+      "Text": "Usiku Giza Nene"
+    },
+    {
+      "ID": 3,
+      "Guid": "uaZiTL/fw0acC6QtbtgQCQ",
+      "Verses": [
+        {
+          "Text": "Sabato ni... Siku ya furaha ndugu ndivyo Bwana wa Sabato asema (hivyo) nasi tufurahie Sabato tukimwabudu mungu wetu siku takatifu, (pekee) tukitazamia kuishi naye Bwana kwenye mbingu mpya na nchi mpya,  (kweli) mwezi hata mwezi Sabato na hata Sabato tuabudu milele mbele zake "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Yule mpooza, hakupata msaada kamwe, (kweli) Kwa miaka thelathini na minane , lo lo kwa ghafla Alijawa na furaha ..a-a (Sabato hiyo) kabeba godoro lake akiimba kwa uponyaji katika siku hiyo. "
+        },
+        {
+          "ID": 2,
+          "Text": "Shetani a... kazana mwendo ndugu yangu kuadaa wote wa ulimwengu, (kwamba) yesu aliziangika pale msalabani amri zake pamoja na Sabato (sivyo) Neno lake mungu halisemi hivyo ndugu tulisome na kuelewa vema (bali) Mwana Wa kuasi anadai kubadilisha amri na majira ya mungu wetu. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Yule mpooza, hakupata msaada kamwe, (kweli) Kwa miaka thelathini na minane , lo lo kwa ghafla Alijawa na furaha ..a-a (Sabato hiyo) kabeba godoro lake akiimba kwa uponyaji katika siku hiyo. "
+        },
+        {
+          "ID": 3,
+          "Text": "Nasi Leo.... Mioyoni ndugu tunahitaji raha ya Sabato kwa bwana Yesu (hivyo) tusimezwe na yalo dunia hii ya dhambi tumwabudu Kwa kweli na Kwa roho, (kweli) pasipo yeye hatuwezi kamwe ndugu kama mpooza asiyejiweza (hivyo) kwa imani tuite jina lake la ushindi tupokee uponyaji wa milele. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Nami mpooza na mdhambi kwa maasi yote, (kweli) nimeoshwa kwa damu ya Mwokozi Yesu nashangaa kwa rehema na nehema yake, (kwa pendo hilo) alonipa Bwana na huruma zake nitamsifu milele Kwa furaha."
+        }
+      ],
+      "Text": "Sabato"
+    },
+    {
+      "ID": 4,
+      "Guid": "XMsPu+Y2nUK78YbEV+fvjw",
+      "Verses": [
+        {
+          "Text": "Sina budi kusifu jina lako Mwokozi, kwa maana umeniokoa mimi, niliyekua mpofu maskini mfungwa wa dhambi nimeona nuru tena,umenipa tumaini tena, gharama ya wokovu umeilipa,sifa sifa  kwako Bwana.×2 "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Nitasifu jina lako, maana wastahili wewe, uliyekua Mwana kondoo, na Sasa ni Simba wa Yuda, (Wastahili) kupokea uweza, (Wastahili) utajiri na hekima, nguvu heshima utukufu na baraka, uhimidiwe milele.×2 "
+        },
+        {
+          "ID": 2,
+          "Text": "Ulidharauliwa, tena kukataliwa, ulijeruhiwa kwa makosa yetu, kisha ukachukua masikitiko yetu, umejitwika huzuni zetu zote, ulivikwa taji ya miba chungu, katemewa mate kachomwa mkuki, sifa sifa kwako Bwana.×2 "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Nitasifu jina lako, maana wastahili wewe, uliyekua Mwana kondoo, na Sasa ni Simba wa Yuda, (Wastahili) kupokea uweza, (Wastahili) utajiri na hekima, nguvu heshima utukufu na baraka, uhimidiwe milele.×2 "
+        }
+      ],
+      "Text": "Sina Budi"
+    },
+    {
+      "ID": 5,
+      "Guid": "h9E37P+e9Eyjm0Dt8a9iJQ",
+      "Verses": [
+        {
+          "Text": "Itakua ni pambazuko la ajabu, tutakapo ona wingu likishuka, toka mashariki kumlaki mfalme, katikati ameketi mfalme wa utukufu. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "(Sop/alto) Pambazuko njema,tutakaposema,huyu ndiye yesu, tuliyemngoja,itakua ni pambazuko kubwa, kuwa naye milele×2. \n(Tenor/bass) Pambazuko njema, kweli njema, tutakaposema, kweli sema, huyu ndiye yesu, yesu, yesu, tuliyemngoja, kweli, ngoja, itakua ni pambazuko kubwa, kuwa naye milele×2. "
+        },
+        {
+          "ID": 2,
+          "Text": "Wateule watashangilia kwa shangwe, wakiuona utukufu wa mbinguni,na wadhambi watalia na kusaga meno, mwanakondoo wa bwana atakaporejea. "
+        }
+      ],
+      "Text": "Pambazuko "
+    },
+    {
+      "ID": 6,
+      "Guid": "Q45z3ynntEuDRscd6FXkwg",
+      "Verses": [
+        {
+          "Text": "(Nitakwenda Mimi Nitakwenda, Nitakwenda aniagizapo milimani mabonde nitakwenda ameniita) ( Nitakwenda, Nitakwenda Nitakwenda agizapo milimani na mabonde nitakwenda ameniita)×2 "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kwa sadaka zetu zote, Na kwa Hali zetu zote, Tujitoe sisi wote, Ili twende amatuita×2"
+        },
+        {
+          "ID": 2,
+          "Text": "(Tumeitwa twende Sasa)  B (Na mavuno Sasa ni tayari) (Tumeitwa twende Sasa,... Na mavuno ni tayari, milimani na mabonde nitakwenda ameniita)×2 "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kwa sadaka zetu zote, Na kwa Hali zetu zote,  Tujitoe sisi wote, Ili twende amatuita×2"
+        },
+        {
+          "ID": 3,
+          "Text": "(Mwanamke yule msamaria,kasikia wito  wake Yesu,Hakusita kutangaza huyu Yesu Mwana wa Mungu)×2 "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kwa sadaka zetu zote, Na kwa Hali zetu zote,  Tujitoe sisi wote, Ili twende amatuita×2"
+        },
+        {
+          "ID": 4,
+          "Text": "S&T (Nitakwenda) Nitakwenda S&T(Na sitishwi) A Sitikiki  S( Amueni hivi leo  twendeni Sasa tumfanyie kazi)×2  A(Amua hivi leo twende tufanye kazi)×2 "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kwa sadaka zetu zote, Na kwa Hali zetu zote,  Tujitoe sisi wote, Ili twende amatuita×2"
+        },
+        {
+          "ID": 5,
+          "Text": "B&T (Sikieni wito wake Yesu) A( Twendeni Sasa malishoni)  B&T(Kondoo wake wasipotee) S&A(Tuwarudishe kwenye zizi)×2 "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kwa sadaka zetu zote, Na kwa Hali zetu zote,  Tujitoe sisi wote, Ili twende amatuita×2"
+        },
+        {
+          "ID": 6,
+          "Text": "S&T(Nitakwenda)A&B Nitakwenda S&T( Na sitishwi) A&B (Sitikiki) A(Amueni hivi leo twendeni Sasa tumfanyie kazi)×2 "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kwa sadaka zetu zote, Na kwa Hali zetu zote,  Tujitoe sisi wote, Ili twende amatuita×2"
+        },
+        {
+          "ID": 7,
+          "Text": "All( Kazi kazi,Twende tukamfanyie  kazi)×2. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kwa sadaka zetu zote, Na kwa Hali zetu zote,  Tujitoe sisi wote, Ili twende amatuita×2"
+        }
+      ],
+      "Text": "Nitakwenda"
+    },
+    {
+      "ID": 7,
+      "Guid": "YIjvPfO5cEGFsDF4mG2U2w",
+      "Verses": [
+        {
+          "Text": "Ninamshukuru bwana, kwa Yesu Kristo kwa pendo, kukubali kutufia, msalabani, na kutupa hakikisho, la kuridhi mbingu mpya, tulipotanga mbali katurudisha kwake. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Ni pendo-la mungu( pendo Lake mungu) Pendo la – agape (pendo la agape)  SKupenda-kisicho (kupenda kisicho) Pendeka na mwingine...×2 "
+        },
+        {
+          "ID": 2,
+          "Text": "Mwana wa Adamu aliposhuka toka mbinguni, wagonjwa walishuhudia ilo pendo, wenye kuvunjika mioyo, walitoshelezwa nalo, walipoguzwa na hilo pendo Lake la kweli. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Ni pendo-la mungu( pendo Lake mungu) Pendo la – agape (pendo la agape)  SKupenda-kisicho (kupenda kisicho) Pendeka na mwingine...×2 "
+        },
+        {
+          "ID": 3,
+          "Text": "Pendo hili la ajabu, lililofanya mbinguni, kuwe na kimya kwa muda, ili watazame, mwana wa mungu mtiifu, afe ili aokoe, waliozama dhambini, awarudishe kwake. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Ni pendo-la mungu( pendo Lake mungu) Pendo la – agape (pendo la agape)  SKupenda-kisicho (kupenda kisicho) Pendeka na mwingine...×2 "
+        },
+        {
+          "ID": 4,
+          "Text": "Ee mwokozi wangu yesu, naomba nilielewe, jinsi pendo hili lililo la maana, kunitafuta mpofu, na mwenye dhambi na kuniingiza kwenye raha ya uzima wa milele. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Ni pendo-la mungu( pendo Lake mungu) Pendo la – agape (pendo la agape)  SKupenda-kisicho (kupenda kisicho) Pendeka na mwingine...×2 "
+        }
+      ],
+      "Text": "Pendo La Agape"
+    },
+    {
+      "ID": 8,
+      "Guid": "oMvKK+KIyU2+UL3ON47iNA",
+      "Verses": [
+        {
+          "Text": "Omonene tata nyasae, aye okarora mbuya, Adamu, taba bweka, okamotonger' Mokonyi (Awa) baanchane, bameny' amo (ee mwabo), bagendererie egesaku. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Enywomo, enywomo, Birecha nayeregete, nayeregete, tobuchi' amasabo, (minto) soma ring'ana, (Nyomba Mino), oboererania bobe as' obwororo, (inwe) (mwaberane, gaki tata tigabakonye. X2) "
+        },
+        {
+          "ID": 2,
+          "Text": "Namorigirie namonyorire, omosani bwenkoro yane, omogisangio, omwanchi one, rora twarire chiira, inche ningwanche, naboigo nkorende, rinde tinkogotiga, aye, noyone, rero, mambia, (na) kare na kare. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Enywomo, enywomo, Birecha nayeregete, nayeregete, tobuchi' amasabo, (minto) soma ring'ana, (Nyomba Mino), oboererania bobe as' obwororo, (inwe) (mwaberane, gaki tata tigabakonye. X2) "
+        }
+      ],
+      "Text": "Enywomo"
+    },
+    {
+      "ID": 9,
+      "Guid": "Eb5sYXb/W02Ye278hYU3/w",
+      "Verses": [
+        {
+          "Text": "Tarumbeta itakapolia, wafu watafufuliwa, tulohai tutaunganika, kwa pamoja mawinguni. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Anarudi mwokozi, kila jicho litamwona hebu jihoji kwa kina, ili nawe ujihusishe. "
+        },
+        {
+          "ID": 2,
+          "Text": "Jihusishe Kwa kufanya kazi, shambani mwake mwokozi, wapotevu warudi kwa zizi, anarudi kama mwizi. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Anarudi mwokozi, kila jicho litamwona hebu jihoji kwa kina, ili nawe ujihusishe."
+        },
+        {
+          "ID": 3,
+          "Text": "Siku hiyo yaja kwa upesi, masaa nayo ni machache yalotabiriwa yametimika, hebu jitayarisheni. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Anarudi mwokozi, kila jicho litamwona hebu jihoji kwa kina, ili nawe ujihusishe."
+        }
+      ],
+      "Text": "Tarumbeta Itakapolia"
+    },
+    {
+      "ID": 10,
+      "Guid": "Qeh04YN9yE+SV0VlkPUN8A",
+      "Verses": [
+        {
+          "Text": "Najua hakustahili mwokozi  kubeba dhambi zangu  tumaini langu ...lilipotea....  za mwovu.. ziliniangusha, huruma zake yesu  alimwaga damu  kwa kifo chake alinikomboa. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Yuaja yuaja na ujira mkononi, yuaja yuaja si kama mwana kondoo .... (Yuaja kama mfalme ) sop  Yuaja yuaja yuaja tena, Yuaja yuaja hakika jiwekeni tayari "
+        },
+        {
+          "ID": 2,
+          "Text": "Umeaanda aje maisha yako  na wengine je umewaleta kwake  Yesu wetu akafa tukawe huru  uliyetanga mbali anakuita."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Yuaja yuaja na ujira mkononi, yuaja yuaja si kama mwana kondoo .... (Yuaja kama mfalme ) sop  Yuaja yuaja yuaja tena, Yuaja yuaja hakika jiwekeni tayari "
+        }
+      ],
+      "Text": "Najua Hakustahili"
+    },
+    {
+      "ID": 11,
+      "Guid": "PX6Jw5O3hU2A+ZgGx0JmTA",
+      "Verses": [
+        {
+          "Text": "We shall walk with him in white, in that country pure and bright, where shall enter naught that may defile; Where the daybeam ne'er declines, for the blessed light that shines, is the glory of the Savior’s smile. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Beautiful robes, beautiful robes, beautiful robes we then shall wear; garments of light, lovely and bright, walking with Jesus in white, beautiful robes we shall wear. "
+        },
+        {
+          "ID": 2,
+          "Text": "We shall walk with him in white, where faith yields to blissful sight, when the beauty of the King we see; holding converse full and sweet, wn a fellowship complete; Waking songs of holy melody.  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Beautiful robes, beautiful robes, beautiful robes we then shall wear; garments of light, lovely and bright, walking with Jesus in white, beautiful robes we shall wear. "
+        },
+        {
+          "ID": 3,
+          "Text": "We shall walk with him in white, by the fountains of delight, where the Lamb his ransomed ones shall lead; for his blood shall wash each stain, till no spot of sin remain, and the soul forevermore is free. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Beautiful robes, beautiful robes, beautiful robes we then shall wear; garments of light, lovely and bright, walking with Jesus in white, beautiful robes we shall wear. "
+        }
+      ],
+      "Text": "We Shall Walk "
+    },
+    {
+      "ID": 12,
+      "Guid": "iHt0M7K97kSDG0vnZ60r6A",
+      "Verses": [
+        {
+          "Text": "Nampenda mkombozi wangu, anifanyiaye mengi, kwa furaha natangaza, pendo liokoalo, hata mwisho wa maisha, Tenor (tatuma) tatuma, Tenor (nyimbo juu), nyimbo juu, Sop,alto(na kando ya bahari),  Bass and tenor(Kwa moyo nitamsifu) Yesu kwa pendo Lake. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Yeye ni vyote kwangu mimi; yeye ni vyote kwangu tena vyote kwa milele, sitaacha kuimba wimbo wa shangwe kumsifu, hapana mbinguni juu niimbe juu ya upendo, yeye nuru na raha, rafiki kanifilia. "
+        },
+        {
+          "ID": 2,
+          "Text": "Yeye amenikomboa, dhambi zangu aondoa, atembea kando yangu, milele yu dhamani, na kwa hili namsifu, Tenor(nikiwa) Nikiwa Tenor (na raha) Na raha Sop,alto(Hivyo ndivyo daima) Tenor, Bass (Kwenye pwani milele) Taimba pendo lake.  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Yeye ni vyote kwangu mimi; yeye ni vyote kwangu tena vyote kwa milele, sitaacha kuimba wimbo wa shangwe kumsifu, hapana mbinguni juu niimbe juu ya upendo, yeye nuru na raha, rafiki kanifilia. "
+        },
+        {
+          "ID": 3,
+          "Text": "Sifa ni kwake milele, msifu Kristo mwana kondoo, amenijaza na nuru, niwe jinsi nilivyo, wote wangemfahamu, Tenor (heri na) Heri na Tenor(wamsifu) Wamsifu, Sop,alto(Waamini upendo) Tenor,bass(Wa rafiki wa mbingu,) Wawe wake milele."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Yeye ni vyote kwangu mimi; yeye ni vyote kwangu tena vyote kwa milele, sitaacha kuimba wimbo wa shangwe kumsifu, hapana mbinguni juu niimbe juu ya upendo, yeye nuru na raha, rafiki kanifilia. "
+        }
+      ],
+      "Text": "Nampenda Mkombozi "
+    },
+    {
+      "ID": 13,
+      "Guid": "qVcz12EpVECj1AePKoeNFg",
+      "Verses": [
+        {
+          "Text": "Give me a vision of music sweet, as it is sung before thy throne, angels are praising God Almighty, in great reverence and awe; behold the content behold thy style, and percussions are skillfully played, angels are tuning the harps of God, with all understanding. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Give me my lord I pray, the spirit of the heavenly song, music not worldly music not wild, as its sung before thy throne, may I now praise you with skillful hands, with integrity of heart \nTenor/Bass (of heart......)×5 \nSop/Alto (searching the scriptures, and singing your word)×2 having my loins girt, about with the truth, singing and praising with understanding. "
+        },
+        {
+          "ID": 2,
+          "Text": "What kind of music, I love to sing, claiming that I am praising God, frivolous ditties, fit for disco, degrading Jesus’ name, rocking and jazzing, dancing for Christ, who has no place into my heart, just to make money and have a name, I’m a Christian also. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Give me my lord I pray, the spirit of the heavenly song, music not worldly music not wild, as its sung before thy throne, may I now praise you with skillful hands, with integrity of heart \nTenor/Bass (of heart......)×5 \nSop/Alto (searching the scriptures, and singing your word)×2 having my loins girt, about with the truth, singing and praising with understanding. "
+        },
+        {
+          "ID": 3,
+          "Text": "Many a singer, talented friends, have untimely succumbed to death, some slept without hope, to meet the Lord, when his advent will come; their art of singing, was a dry form, imitating some music star, arrogance and pride, and adultery, claimed their lives and they died. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Give me my lord I pray, the spirit of the heavenly song, music not worldly music not wild, as its sung before thy throne, may I now praise you with skillful hands, with integrity of heart \nTenor/Bass (of heart......)×5 \nSop/Alto (searching the scriptures, and singing your word)×2 having my loins girt, about with the truth, singing and praising with understanding. "
+        }
+      ],
+      "Text": "Give Me A Vision"
+    },
+    {
+      "ID": 14,
+      "Guid": "vGcGWg5/6EyPXfN+5+VGxQ",
+      "Verses": [
+        {
+          "Text": "Wonderful Grace of Jesus, greater than all my sin; How shall my tongue describe it, Where shall its praise begin? Taking away my burden, setting my spirit free; For the Wonderful Grace of Jesus reaches me! "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Wonderful the matchless Grace of Jesus, (the matchless Grace of Jesus), Deeper than the mighty rolling sea; (the rolling sea); Wonderful Grace, all sufficient for me, (for even me) (Tenor/Bass: Higher than the mountain, sparkling like a fountain, All sufficient Grace for even me) Broader than the scope of my transgressions, (Tenor/Bass: sing it!) Greater far than all my sin and shame my sin and shame, O magnify the precious name of Jesus, Praise his name! "
+        },
+        {
+          "ID": 2,
+          "Text": "Wonderful Grace of Jesus, reaching to all the lost; By it I have been pardoned, saved to the uttermost. Chains have been torn asunder, giving me liberty; For the wonderful grace of Jesus, reaches me! "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Wonderful the matchless Grace of Jesus, (the matchless Grace of Jesus), Deeper than the mighty rolling sea; (the rolling sea); Wonderful Grace, all sufficient for me, (for even me) (Tenor/Bass: Higher than the mountain, sparkling like a fountain, All sufficient Grace for even me) Broader than the scope of my transgressions, (Tenor/Bass: sing it!) Greater far than all my sin and shame my sin and shame, O magnify the precious name of Jesus, Praise his name!"
+        },
+        {
+          "ID": 3,
+          "Text": "Wonderful Grace of Jesus, reaching the most defiled; By its transforming power, making me God's dear child, purchasing peace and Heaven, for all eternity; And the wonderful grace of Jesus, reaches me! "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Wonderful the matchless Grace of Jesus, (the matchless Grace of Jesus), Deeper than the mighty rolling sea; (the rolling sea); Wonderful Grace, all sufficient for me, (for even me) (Tenor/Bass: Higher than the mountain, sparkling like a fountain, All sufficient Grace for even me) Broader than the scope of my transgressions, (Tenor/Bass: sing it!) Greater far than all my sin and shame my sin and shame, O magnify the precious name of Jesus, Praise his name!"
+        }
+      ],
+      "Text": "Wonderful Grace of Jesus "
+    },
+    {
+      "ID": 15,
+      "Guid": "W6a1Y1Jo2Ey01Va5gFhVMw",
+      "Verses": [
+        {
+          "Text": "All hail the pow’r of Jesus’ name! Let angels prostrate fall, Let angels prostrate fall; Bring forth the royal diadem. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "And crown Him, crown Him, crown Him, crown Him; And crown Him Lord of all!"
+        },
+        {
+          "ID": 2,
+          "Text": "Ye chosen seed of Israel’s race, Ye ransomed from the fall, Ye ransomed from the fall, Hail Him who saves you by His grace. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "And crown Him, crown Him, crown Him, crown Him; And crown Him Lord of all!"
+        },
+        {
+          "ID": 3,
+          "Text": "Let every kindred, every tribe, On this terrestrial ball, On this terrestrial ball, To Him all majesty ascribe. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "And crown Him, crown Him, crown Him, crown Him; And crown Him Lord of all!"
+        },
+        {
+          "ID": 4,
+          "Text": "O that with yonder sacred throng We at His feet may fall, We at His feet may fall! We’ll join the everlasting song. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "And crown Him, crown Him, crown Him, crown Him; And crown Him Lord of all!"
+        }
+      ],
+      "Text": "All Hail the Power "
+    },
+    {
+      "ID": 16,
+      "Guid": "aXL9iVL2CEyfaJ9akGSb3A",
+      "Verses": [
+        {
+          "Text": "Worthy is the Lamb that was slain, and hath redeemed us to God by His blood, to receive power, and riches, and wisdom, and strength, and honor, and glory, and blessing. "
+        },
+        {
+          "ID": 2,
+          "Text": "Worthy is the Lamb that was slain, and hath redeemed us to God, to God by His blood, to receive power, and riches, and wisdom, and strength, and honor, and glory, and blessing. "
+        },
+        {
+          "ID": 3,
+          "Text": "Blessing and honor, glory and power, be unto Him, be unto him that sitteth upon the throne, and unto the Lamb, Blessing and honor, glory and power, be unto Him, be unto him that sitteth upon the throne, and unto the Lamb, "
+        },
+        {
+          "ID": 4,
+          "Text": "For ever and ever and ever and ever. Amen. "
+        },
+        {
+          "ID": 5,
+          "Text": "Blessing and honor, glory and power, be unto Him, be unto him that sitteth upon the throne, that sitteth upon the throne, and unto the Lamb: Blessing and honor, glory and power, be unto Him, be unto him that sitteth upon the throne, that sitteth upon the throne, that sitteth upon the throne, forever "
+        },
+        {
+          "ID": 6,
+          "Text": "Blessing and honor, glory and power, be unto Him, forever: Blessing and honor, glory and power, be unto Him, be unto him: Blessing and honor, glory and power, be unto Him, be unto him "
+        },
+        {
+          "ID": 7,
+          "Text": "Blessing! Honor! Glory! And power, be unto Him! that sitteth upon the throne, that sitteth upon the throne: Forever and ever, Forever and ever. Forever and ever, Forever and ever. "
+        },
+        {
+          "ID": 8,
+          "Text": "Forever and ever, Forever and ever.: Forever and ever, Forever and ever: Forever and ever. \nForever and ever. "
+        }
+      ],
+      "Text": "Worthy is the Lamb  "
+    },
+    {
+      "ID": 17,
+      "Guid": "+I1whX8upkmv93RHIGSYRg",
+      "Verses": [
+        {
+          "Text": "Chini ya msalaba Nataka simama;  Ndio mwamba safarini, Wa kivuli chema; Ni kweli kwa roho yangu Ni tuo kamili,  Tatua mzigo wangu Wakati wa hari.  "
+        },
+        {
+          "ID": 2,
+          "Text": "Hapa ni pema sana, Ni ngome kamili;  Hapa yameonekana, Mapenzi ya kweli; Kama alivyoonyeshwa Yakobo zamani. Msalaba umekuwa Ngazi ya mbinguni."
+        },
+        {
+          "ID": 3,
+          "Text": "Na Yesu Msalabani Walimkemea,  Alikufa niokoke Niliyepotea: Naona ajabu sana Ya mambo mawili  Jinsi alivyonipenda Nisiyestahili.  "
+        },
+        {
+          "ID": 4,
+          "Text": "Atakayeonana Na Yesu mbinguni,  Njia yake aanzapo Ni Msalabani; Wokovu upo hapa tu, Mwingine hapana.  Kisha kuna furaha kuu Pamoja na Bwana. "
+        }
+      ],
+      "Text": "Chini Ya Msalaba "
+    },
+    {
+      "ID": 18,
+      "Guid": "JnJH/WY5UEyhtA4Ak9Gdlg",
+      "Verses": [
+        {
+          "Text": "Jerusalem! my glorious home! Name ever dear to me! When, when shall my labors have an end,  In joy, In joy and peace,  In joy, In joy and peace, In joy, and peace with thee! "
+        },
+        {
+          "ID": 2,
+          "Text": "Oh, when, thou city of my God,  Shall I thy courts ascend:  Where congregations ne'er break up, And Sabbaths have no end? There happier bowers than Eden's bloom; No sin, nor sorrow know; "
+        },
+        {
+          "ID": 3,
+          "Text": "Blest seats! thro' rude and stormy scenes, I onward press to you, I onward press to you, I onward press to you, Jerusalem! Jerusalem! Name ever dear to me! "
+        },
+        {
+          "ID": 4,
+          "Text": "Why should I shrink at pain and woe, Or feel at death’s dismay? I've Canaan's goodly land in view, And realms of endless day. "
+        },
+        {
+          "ID": 5,
+          "Text": "Jerusalem, my glorious home! My soul still pants,  My soul still pants for thee; \nThen, Then shall my labors have an end, "
+        },
+        {
+          "ID": 6,
+          "Text": "When I, (When I thy joys) thy joys (Thy joys shall see), When I thy joys shall see, thy joys shall see, Jerusalem! Jerusalem! \nName ever dear to me! \nName ever dear to me. "
+        }
+      ],
+      "Text": "Jerusalem! "
+    },
+    {
+      "ID": 19,
+      "Guid": "1u76mVfrpEKQnkbVpNu3Ow",
+      "Verses": [
+        {
+          "Text": "Savior, lead me lest I stray, Gently lead me all the way; I am safe when by Thy side, I would in Thy love abide. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Lead me, lead me, Savior, lead me, lest I stray; \nGently down the stream of time, Lead me, Savior, all the way. "
+        },
+        {
+          "ID": 2,
+          "Text": "Thou the refuge of my soul, When life's stormy billows roll; \nI am safe when by Thy side, All my hopes on Thee rely.  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Lead me, lead me, Savior, lead me, lest I stray; \nGently down the stream of time, Lead me, Savior, all the way. "
+        },
+        {
+          "ID": 3,
+          "Text": "Savior, lead me, then at last, When the storm of life is past; \nTo the land of endless day, Where all tears are wiped away.  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Lead me, lead me, Savior, lead me, lest I stray; \nGently down the stream of time, Lead me, Savior, all the way. "
+        }
+      ],
+      "Text": "Savior Lead Me "
+    },
+    {
+      "ID": 20,
+      "Guid": "dNOdxGUx+0ymCJfXvaip1A",
+      "Verses": [
+        {
+          "Text": "Troublesome times are here, filling men's hearts with fear, freedom we all hold dear now is at stake, humbling your hearts to God saves from the chastening rod, Seek the way pilgrims trod, Christians awake."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Jesus is coming soon, morning or night or noon, \nmany will meet their doom, trumpets will sound, \nAll of the dead shall rise, righteous meet in the skies, \ngoing where no one dies, heavenward bound "
+        },
+        {
+          "ID": 2,
+          "Text": "Love of so many cold, losing their home of gold, this in God’s word is told; evils abound, when these signs come to pass, nearing the end at last, It will come very fast trumpets will sound. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Jesus is coming soon, morning or night or noon, \nmany will meet their doom, trumpets will sound, \nAll of the dead shall rise, righteous meet in the skies, \ngoing where no one dies, heavenward bound "
+        },
+        {
+          "ID": 3,
+          "Text": "Troubles will soon be o'er, happy forevermore, when we meet on that shore, free from all care Rising up in the sky, telling this world goodbye, homeward we then shall fly, glory to share"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Jesus is coming soon, morning or night or noon, \nmany will meet their doom, trumpets will sound, \nAll of the dead shall rise, righteous meet in the skies, \ngoing where no one dies, heavenward bound "
+        }
+      ],
+      "Text": "Troublesome Times "
+    },
+    {
+      "ID": 21,
+      "Guid": "Iv4YAEpHWE+7hShs+mq4KA",
+      "Verses": [
+        {
+          "Text": "The prize is set before us, to win our Lord implore us, the eye of God is o'er us from on high; (from on high) His loving tones are calling, while sin is dark, appalling, 'Tis Jesus gently calling, He is nigh. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "By and by we shall meet Him, By and by we shall greet Him, and with Jesus live in glory, By and by; By and by we shall meet Him, By and by we shall greet Him, And with Jesus live in glory, By and by. "
+        },
+        {
+          "ID": 2,
+          "Text": "We'll follow where He leadeth, we'll pasture where He feedeth, we'll yield to Him who pleadeth from on high; Then naught from Him shall sever, our hope shall brighten ever, and faith shall fail us never, He is nigh.  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "By and by we shall meet Him, By and by we shall greet Him, and with Jesus live in glory, By and by; By and by we shall meet Him, By and by we shall greet Him, And with Jesus live in glory, By and by. "
+        },
+        {
+          "ID": 3,
+          "Text": "Our home is bright above us, no trials dark to move us, But Jesus dear to love us there on high; We'll give Him best endeavor, and praise His name forever; His precious words can never, never die.  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "By and by we shall meet Him, By and by we shall greet Him, and with Jesus live in glory, By and by; By and by we shall meet Him, By and by we shall greet Him, And with Jesus live in glory, By and by. "
+        }
+      ],
+      "Text": "The Prize"
+    },
+    {
+      "ID": 22,
+      "Guid": "Oe+oVBzPbUOA3qnoniqVIg",
+      "Verses": [
+        {
+          "Text": "Hapo Yesu atakapoita mataifa mbele yake, \ntutashindaje kwenye hukumu mbele ya kiti cha  enzi? "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Atakusanya ngano ghalani, atatupa mbali makapi; \nTutashindaje hukumuni siku kuu ya kiyama? "
+        },
+        {
+          "ID": 2,
+          "Text": "Je, tutasikia neno tamu: “vema, wewe mtumwa mwema,” \nAma wenye uchungu na hofu tutakatazwa ufalme? "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Atakusanya ngano ghalani, atatupa mbali makapi; \nTutashindaje hukumuni siku kuu ya kiyama? "
+        },
+        {
+          "ID": 3,
+          "Text": "Atakubali tu kwa furaha watoto wake wapendwa, \nAtawapa mavazi meupe, wakea tayari kumlaki. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Atakusanya ngano ghalani, atatupa mbali makapi; \nTutashindaje hukumuni siku kuu ya kiyama? "
+        },
+        {
+          "ID": 4,
+          "Text": "Hivyo tukeshe, nasi tungoje, wenye taa zinazo waka; \ntutakapoitwa arusini tuwe tayari kumlaki. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Atakusanya ngano ghalani, atatupa mbali makapi; \nTutashindaje hukumuni siku kuu ya kiyama? "
+        }
+      ],
+      "Text": "Hapo Yesu / Hukumuni? "
+    },
+    {
+      "ID": 23,
+      "Guid": "SAPlof/Dvk2whklZgPFKEg",
+      "Verses": [
+        {
+          "Text": "Hark! the herald angels sing, \"Glory to the newborn King: peace on earth, and mercy mild, God and sinners reconciled!\" Joyful, all ye nations, rise, join the triumph of the skies; with th'angelic hosts proclaim, \"Christ is born in Bethlehem! Hark! the herald angels sing, \"Glory to the newborn King\" "
+        },
+        {
+          "ID": 2,
+          "Text": "Christ, by highest heaven adored, Christ, the everlasting Lord, late in time behold him come, offspring of the Virgin's womb: veiled in flesh the Godhead see; hail th'incarnate Deity, pleased with us in flesh to dwell, Jesus, our Immanuel. Hark! the herald angels sing, \"Glory to the newborn King\""
+        },
+        {
+          "ID": 3,
+          "Text": "Hail the heaven-born Prince of Peace! Hail the Sun of Righteousness! Light and life to all he brings, risen with healing in his wings. Mild he lays his glory by, born that we no more may die, born to raise us from the earth, born to give us second birth. Hark! the herald angels sing, \"Glory to the newborn King\""
+        }
+      ],
+      "Text": "Hark! The Herald "
+    },
+    {
+      "ID": 24,
+      "Guid": "79UcNb0GdUqQR17YprYjew",
+      "Verses": [
+        {
+          "Text": "O for a thousand tongues to sing, my great Redeemer's praise, my great Redeemer's praise,\nThe glories of my God and King, (The triumphs of his grace x3)\nThe triumphs of his grace! The triumphs of his grace! The triumphs of his grace!"
+        },
+        {
+          "ID": 2,
+          "Text": "Jesus the name that charms our fears, that bids our sorrows cease, that bids our sorrows cease, \n'tis music in the sinner's ears, \n('Tis life and health and peace) 'Tis life and health and peace. 'Tis life and health and peace. 'Tis life and health and peace."
+        },
+        {
+          "ID": 3,
+          "Text": "He breaks the power of cancelled sin, he sets the prisoner free, he sets the prisoner free; \nHis blood can make the foulest clean; \nHis blood avails for me, His blood avails for me, His blood avails for me"
+        }
+      ],
+      "Text": "O For a Thousand Tongues "
+    },
+    {
+      "ID": 25,
+      "Guid": "tYb1pylr806Z25rWLYxXBg",
+      "Verses": [
+        {
+          "Text": "Where He may lead me I will go, for I have learned to trust Him so, and I remember 'twas for me, that he was slain on Calvary. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Jesus shall lead me night and day, Jesus shall lead me all the way, \nHe is the truest Friend to me, for I remember Calvary. "
+        },
+        {
+          "ID": 2,
+          "Text": "O I delight in His command, love to be led by His dear hand; His divine will is sweet to me, hallowed by blood-stained Calvary.  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Jesus shall lead me night and day, Jesus shall lead me all the way, \nHe is the truest Friend to me, for I remember Calvary. "
+        },
+        {
+          "ID": 3,
+          "Text": "Onward I go, no doubt nor fear, happy with Christ, my Savior, near, trusting that I some day shall see Jesus, my friend, of Calvary. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Jesus shall lead me night and day, Jesus shall lead me all the way, \nHe is the truest Friend to me, for I remember Calvary. "
+        }
+      ],
+      "Text": "Where He May Lead "
+    },
+    {
+      "ID": 26,
+      "Guid": "+48/O9PSsEaObKC81elzDA",
+      "Verses": [
+        {
+          "Text": "My heart was distressed ’neath Jehovah’s dread frown, and low in the pit where my sins dragged me down; I cried to the Lord from the deep miry clay, who tenderly brought me out to golden day."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "He brought me out of the miry clay, He set my feet on the Rock to stay; \nHe puts a song in my soul today, a song of praise, hallelujah!"
+        },
+        {
+          "ID": 2,
+          "Text": "He placed me upon the strong Rock by His side, my steps were established and here I’ll abide; No danger of falling while here I remain, but stand by His grace until the crown I gain."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "He brought me out of the miry clay, He set my feet on the Rock to stay; \nHe puts a song in my soul today, a song of praise, hallelujah!"
+        },
+        {
+          "ID": 3,
+          "Text": "He gave me a song, ’twas a new song of praise; by day and by night its sweet notes I will raise; My heart’s overflowing, I’m happy and free; I’ll praise my Redeemer, who has rescued me."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "He brought me out of the miry clay, He set my feet on the Rock to stay; \nHe puts a song in my soul today, a song of praise, hallelujah!"
+        },
+        {
+          "ID": 4,
+          "Text": "I’ll sing of His wonderful mercy to me, I’ll praise Him till all men His goodness shall see; I’ll sing of salvation at home and abroad, till many shall hear the truth and trust in God"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "He brought me out of the miry clay, He set my feet on the Rock to stay; \nHe puts a song in my soul today, a song of praise, hallelujah!"
+        }
+      ],
+      "Text": "He Brought Me Out "
+    },
+    {
+      "ID": 27,
+      "Guid": "NAkm2Gf460qie5+fypyC1w",
+      "Verses": [
+        {
+          "Text": "As you travel along on the Jericho road, does the world seem all wrong and heavy your load? Just bring it to Christ, your sins all confess, on the Jericho road your heart He will bless."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "On the Jericho road there’s room for just two, No more and no less, just Jesus and you; \nEach burden He’ll bear, each sorrow He’ll share, There’s never a care for Jesus is there. "
+        },
+        {
+          "ID": 2,
+          "Text": "On the Jericho road blind Bartimaeus sat, his life was a voice, so empty and flat; but Jesus appeared, one word bro’t him sight, on the Jericho road Christ banished his night.  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "On the Jericho road there’s room for just two, No more and no less, just Jesus and you; \nEach burden He’ll bear, each sorrow He’ll share, There’s never a care for Jesus is there. "
+        },
+        {
+          "ID": 3,
+          "Text": "O brother to you this message I bring, though hope may be gone, He’ll cause you to sing; at Jesus’ command, sin’s shackles must fall, on the Jericho road will you answer His call?  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "On the Jericho road there’s room for just two, No more and no less, just Jesus and you; \nEach burden He’ll bear, each sorrow He’ll share, There’s never a care for Jesus is there. "
+        }
+      ],
+      "Text": "On The Jericho Road "
+    },
+    {
+      "ID": 28,
+      "Guid": "eoQX3khXOk6e6XavxiiDfw",
+      "Verses": [
+        {
+          "Text": "Lonely? No, not lonely, While Jesus standeth by; His presence always cheers me; I know that he is nigh, Friend-less? No, not friend-less, For Jesus is my Friend; I change, but he remaineth, The same unto the end. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "No, never alone, — no, never alone; He has promised never to leave me, Never to leave me alone \nNo, never alone, — no, never alone; He has promised never to leave me, Never to leave me alone. "
+        },
+        {
+          "ID": 2,
+          "Text": "Weary? No, not weary, while leaning on his breast; my soul hath full enjoyment, in His eternal rest; helpless? Yes, so helpless; but I am leaning hard; on the mighty arm of Jesus, and he is keeping guard. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "No, never alone, — no, never alone; He has promised never to leave me, Never to leave me alone \nNo, never alone, — no, never alone; He has promised never to leave me, Never to leave me alone. "
+        },
+        {
+          "ID": 3,
+          "Text": "Waiting? Yes, I’m waiting; He bids me watch and wait, I only wonder often, what makes my Lord so late, Joyful? Yes, so joyful, with joy too deep for words; a precious, sure foundation, the joy that is my Lord’s. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "No, never alone, — no, never alone; He has promised never to leave me, Never to leave me alone \nNo, never alone, — no, never alone; He has promised never to leave me, Never to leave me alone. "
+        }
+      ],
+      "Text": "Never Alone "
+    },
+    {
+      "ID": 29,
+      "Guid": "agZtiq6NoEeWK8vPWRYfxQ",
+      "Verses": [
+        {
+          "Text": "Behold, what love, what boundless love, the Father hath bestowed on sinners lost, that we should be now called the sons of God! "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Behold, what manner of love! What manner of love the Father hath bestowed upon us, that we, that we should be called, should be called the sons of God! "
+        },
+        {
+          "ID": 2,
+          "Text": "No longer far from Him but now by precious blood made nigh, accepted in the well beloved, Near to God’s heart we lie.  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Behold, what manner of love! What manner of love the Father hath bestowed upon us, that we, that we should be called, should be called the sons of God! "
+        },
+        {
+          "ID": 3,
+          "Text": "What we in glory soon shall be, it doth not yet appear; But when our precious Lord we see, We shall His image bear.  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Behold, what manner of love! What manner of love the Father hath bestowed upon us, that we, that we should be called, should be called the sons of God! "
+        },
+        {
+          "ID": 4,
+          "Text": "With such a blessed hope in view, we would more holy be, more like our risen, glorious Lord, whose face we soon shall see.  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Behold, what manner of love! What manner of love the Father hath bestowed upon us, that we, that we should be called, should be called the sons of God! "
+        }
+      ],
+      "Text": "Behold"
+    },
+    {
+      "ID": 30,
+      "Guid": "wI4FXCdtpkaCK4Ktx43iLA",
+      "Verses": [
+        {
+          "Text": "Nina neno la furaha, la Kristo Mwana wa  Mungu,  aliyekuja kuniokoa tu,  kwa upendo alikuja,  dhambini kaniokoa,  Haleluya, Yesu Mwokozi."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Haleluya, ni Mwokozi  Awezaye kututoa  Katika tope la dhambi zote.  Nashukuru siku zote  Kwani alinifilia,  Haleluya, Yesu Mwokozi. "
+        },
+        {
+          "ID": 2,
+          "Text": "Toka kilindi cha dhambi  Mpaka milima ya raha,  Kwa rehema tu aliniinua, Kwa damu yake Mwokozi  Alileta ukombozi,  Haleluya, Yesu Mwokozi. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Haleluya, ni Mwokozi  Awezaye kututoa  Katika tope la dhambi zote.  Nashukuru siku zote  Kwani alinifilia,  Haleluya, Yesu Mwokozi. "
+        },
+        {
+          "ID": 3,
+          "Text": "Toka kitini mwa enzi  Alikuja duniani,  Kutafuta tu waliopotea,  Toka giza awatoe,  Awaingize nuruni,  Haleluya, Yesu Mwokozi.  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Haleluya, ni Mwokozi  Awezaye kututoa  Katika tope la dhambi zote.  Nashukuru siku zote  Kwani alinifilia,  Haleluya, Yesu Mwokozi. "
+        },
+        {
+          "ID": 4,
+          "Text": "Tutaimba sifa zake,  Tutakapofika kwake, Jambo hili tu, alituokoa;  Tutamwimbia milele  Wimbo ulio m-tamu,  Haleluya, Yesu Mwokozi. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Haleluya, ni Mwokozi  Awezaye kututoa  Katika tope la dhambi zote.  Nashukuru siku zote  Kwani alinifilia,  Haleluya, Yesu Mwokozi. "
+        }
+      ],
+      "Text": "Nina Neno La Furaha "
+    },
+    {
+      "ID": 31,
+      "Guid": "q3bHynutHkKT8U+vWBkNMA",
+      "Verses": [
+        {
+          "Text": "`Morendi bw` Omosalaba, `Motunyi bw` eng`ondi  \nTinkwobo` emeremo yaye nonya Nerieta gwatora. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Totang` e (tange) Merindo (merindo) Erio taik` as`are Totang` e (tange ) Merindo (emerindo )Erio toik` As`are. (Asare)"
+        },
+        {
+          "ID": 2,
+          "Text": "Ng`irwa igoro yamare, As` agiya mono \nBande korwanerera keegw`a eke as`obokong`u. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Totang` e (tange) Merindo (merindo) Erio taik` as`are Totang` e (tange ) Merindo (emerindo )Erio toik` As`are. (Asare)"
+        },
+        {
+          "ID": 3,
+          "Text": "Bosi` ababisa tibaiyo? Nimbwatesie omorindo \n`Ns`eye mb` omosani bw`obuya konyira `se Nyasae? "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Totang` e (tange) Merindo (merindo) Erio taik` as`are Totang` e (tange ) Merindo (emerindo )Erio toik` As`are. (Asare)"
+        },
+        {
+          "ID": 4,
+          "Text": "Ndwane omoerio ngambe, Ondemi` Omonene  \nNdemererie obororo bwonsi, Nyore nguru `se \nYeso. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Totang` e (tange) Merindo (merindo) Erio taik` as`are Totang` e (tange ) Merindo (emerindo )Erio toik` As`are. (Asare)"
+        }
+      ],
+      "Text": "Morendi Bw'omosalaba "
+    },
+    {
+      "ID": 32,
+      "Guid": "D/Yok+VLS0CrfkzGZNm/iA",
+      "Verses": [
+        {
+          "Text": "Nkorengereria nde Ens` eria engiya, Ndaike k`erioba rikogwa; \nAs` obuya bwa Yeso ntenene aria, Ninyor` eng`enang`eni gose? "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Ninyore eng`enang`eni as`egutwa Mogorob` erioba rikogwa (rikogwa) \nGonkoboka n`abachenu_as`omochi` oria, Ninyor` eng`enang`eni gose? (Ninyore?) "
+        },
+        {
+          "ID": 2,
+          "Text": "`Ase chinguru chiaye Yeso nindandie, Nindende mobu` omobisa; \nErio ching`enang`eni nachib` echiane, Okobakwa kwaye koigweke. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Ninyore eng`enang`eni as`egutwa Mogorob` erioba rikogwa (rikogwa) \nGonkoboka n`abachenu_as`omochi` oria, Ninyor` eng`enang`eni gose? (Ninyore?)"
+        },
+        {
+          "ID": 3,
+          "Text": "Naki ndagok` ekero nche ndamorore, Nintung`ame komosasima; \n`Moy `one nogok` omochie bw`edhahabu, `Ninyor` eng`enang`eni gose? "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Ninyore eng`enang`eni as`egutwa Mogorob` erioba rikogwa (rikogwa) \nGonkoboka n`abachenu_as`omochi` oria, Ninyor` eng`enang`eni gose? (Ninyore?)"
+        }
+      ],
+      "Text": "Nkorengereria Nde "
+    },
+    {
+      "ID": 33,
+      "Guid": "1Jsul0mgZ0KC3S+y/svd1w",
+      "Verses": [
+        {
+          "Text": "1. Ko rirumbe riasirire korwa as`ebitunwa, Omobaso okobara ogotongia emambia; Natosome rirube riaye ri`obwanchani bwaye, Tomanyane twensi buya, rirumbe rigosira. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": " Tomanya ---- ne buya pi,  (Tomanya ---- ne buya pi) \nTotare ---- amo twensi,  (Totare ---- amo twensi) \nBogokia-- moka_igoro,  (Bogokia ---- moka `goro) \nRirumbe ---- rigosira,  (Rirumbe rigosira)  \nBogokia ----- moka_igoro,  (Bogokia ---- moka `goro) \nRirumbe-- rigosira, (Rirumbe rigosira) "
+        },
+        {
+          "ID": 2,
+          "Text": "Tokomocha koinyora buna intwe namaroba, Togosaria amachiko na gochandeka tweka; Chimbaba chiaye chindabu chitub` ebibe biaito, Okorenda gokoera, rirumbe rigosira. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": " Tomanya ---- ne buya pi,  (Tomanya ---- ne buya pi) \nTotare ---- amo twensi,  (Totare ---- amo twensi) \nBogokia-- moka_igoro,  (Bogokia ---- moka `goro) \nRirumbe ---- rigosira,  (Rirumbe rigosira)  \nBogokia ----- moka_igoro,  (Bogokia ---- moka `goro) \nRirumbe-- rigosira, (Rirumbe rigosira) "
+        },
+        {
+          "ID": 3,
+          "Text": "Rirumbe rigototuba, Tata natomanyete, `Bosi` as`obosio tomanyane, na baria twanchete; Korwa ng`umbu yabarire buya, yakiamokire, Ekiriri kegoeta, rirumbe rigosira. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": " Tomanya ---- ne buya pi,  (Tomanya ---- ne buya pi) \nTotare ---- amo twensi,  (Totare ---- amo twensi) \nBogokia-- moka_igoro,  (Bogokia ---- moka `goro) \nRirumbe ---- rigosira,  (Rirumbe rigosira)  \nBogokia ----- moka_igoro,  (Bogokia ---- moka `goro) \nRirumbe-- rigosira, (Rirumbe rigosira) "
+        }
+      ],
+      "Text": "Ko Rirumbe Riasirere "
+    },
+    {
+      "ID": 34,
+      "Guid": "ux3kcl7JJEK7IahbjvJplQ",
+      "Verses": [
+        {
+          "Text": "Yes` obeire omosani, Obogima bwonsi; Ombekire omokia pi, Nere onkonyire. \nKondemeire arangokie, Onde tariomobuete Chinsa chionsi arangokie, `Mosani. "
+        },
+        {
+          "ID": 2,
+          "Text": "Yes` obeire Omosani, Ase emechando: Ning`end` as`are botambe, Korigia ebisio. \n`Mobaso bwonsi n`embura, Bikorabia endagera: `Mobas` oye, otomire, `Mosani. "
+        },
+        {
+          "ID": 3,
+          "Text": "Yes` obeire Omosani, Tinkomotig` Ere; Naki ndamokanie bono, Gankonyire mono? \nKondamotunyane Ere, Tingosira nonya ng `ake; Nimotunye, Kero gionsi, `Mosani. "
+        },
+        {
+          "ID": 4,
+          "Text": "Yes` obeire omosani, Tindigeti onde; Okwegena okonene, `mwegene botambe. \n`Bogima buya as`are, `Bogima botakoera; Obogima natokoe, `Mosani. "
+        }
+      ],
+      "Text": "Yeso Obeire Omosani "
+    },
+    {
+      "ID": 35,
+      "Guid": "qtuiQtwmyUaX0wl2sWOSTw",
+      "Verses": [
+        {
+          "Text": "Bwanchani Yes`anyanchete, (Bwanchani, Bwanchani yeso anyanchete)\n Agankwer`omosalaba; (Gankwera, gakwa mosalaba)\n Erio nyaberwe ebibe, Tibogokwaneka.  (eri nyabwere ebibeee tibogokwaneka, kwaneka) "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Bwanchani mbogokwaneka(Gokwaneka) `Bwanachani mbogokwaneka (Gokwaneka);  \nBwanchaniYes `anyanchete, Tibogokwaneka. (kwaneka)"
+        },
+        {
+          "ID": 2,
+          "Text": "Boror` obong`anyorete, (Bororo, borobonge anyorete)\n Gatwekw`engata y`amagwa;  (gatwekwa, ngata, eyamagwa)\nErio mbe moyo botambe, Tibogokwaneka. (erio mbemoyo botambe -e tibogokwaneka, kwaneka)"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Bwanchani mbogokwaneka(Gokwaneka) `Bwanachani mbogokwaneka (Gokwaneka);  \nBwanchaniYes `anyanchete, Tibogokwaneka. (kwaneka)"
+        },
+        {
+          "ID": 3,
+          "Text": "Morembe mbwate as`Are, (Morembe, morembe mbwate asare)\n Ansororera Nyasae; (ansororera se Nyasae)\nBobui as`amanying`aye, Tibogokwaneka. (bobui asamany’ing’ae-e tibokogwaneka, kwaneka)"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Bwanchani mbogokwaneka(Gokwaneka) `Bwanachani mbogokwaneka (Gokwaneka);  \nBwanchaniYes `anyanchete, Tibogokwaneka. (kwaneka)"
+        },
+        {
+          "ID": 4,
+          "Text": "Mogoko mbwate Kar`ang`e, (Mogoko, Mogoko mbwate karang’e)\nKo ndaire tindi kwoboa;  (kondaire, sare, tinkwoboa)\nGosemeria mbwate as`are, Tikogokwaneka. (gosemeria mbwate asare-e tikogokwaneka, kwaneka)"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Bwanchani mbogokwaneka(Gokwaneka) `Bwanachani mbogokwaneka (Gokwaneka);  \nBwanchaniYes `anyanchete, Tibogokwaneka. (kwaneka)"
+        }
+      ],
+      "Text": "Bwanchani"
+    },
+    {
+      "ID": 36,
+      "Guid": "AG5SVSCwBUyRhBe8Sk+lCA",
+      "Verses": [
+        {
+          "Text": "1. Popote na Yesu nina furaha: anitumako Yesu ndiyo raha, asipokuwako hapanifai,  akiwapo Yesu, mimi sitishwi. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Popote, popote, sina mashaka; Popote na Yesu naweza kwenda. "
+        },
+        {
+          "ID": 2,
+          "Text": "Akiwapo Yesu, si peke yangu; Na nijapotupwa, akali wangu; \nAjaponiongoza njia mbaya, Niwapo na Yesu nashukuria. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Popote, popote, sina mashaka; Popote na Yesu naweza kwenda. "
+        },
+        {
+          "ID": 3,
+          "Text": "Akiwapo Yesu naweza lala, Naweza pumzika hata kiyama; \nKisha nitakwenda kwake milele, Akiwapo Yesu furaha tele. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Popote, popote, sina mashaka; Popote na Yesu naweza kwenda. "
+        }
+      ],
+      "Text": "Popote Na Yesu "
+    },
+    {
+      "ID": 37,
+      "Guid": "8+ZohKa4dkCEtb0sKkymOA",
+      "Verses": [
+        {
+          "Text": "Ukingoni mwa Yordani ninaangalia bara nzuri ya Kanaani, ninayotamani.  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Tutakaa pamoja na Yesu, Katika pwani yenye raha;  utaimba wimbo wa Musa na Kondoo, Milele \nhata milele."
+        },
+        {
+          "ID": 2,
+          "Text": "Bara ile ina nuru, nuru ya milele; Kristo, Jua, hutawala, hufukuza giza. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Tutakaa pamoja na Yesu, Katika pwani yenye raha;  utaimba wimbo wa Musa na Kondoo, Milele \nhata milele."
+        },
+        {
+          "ID": 3,
+          "Text": "Nitapafikia lini na kubarikiwa, Penye ufalme wa Baba, na kumwona uso? "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Tutakaa pamoja na Yesu, Katika pwani yenye raha;  utaimba wimbo wa Musa na Kondoo, Milele \nhata milele."
+        },
+        {
+          "ID": 4,
+          "Text": "Furaha yangu rohoni ni  kuchukuliwa; Siyaogopi mawimbi katika Yordani. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Tutakaa pamoja na Yesu, Katika pwani yenye raha;  utaimba wimbo wa Musa na Kondoo, Milele \nhata milele."
+        }
+      ],
+      "Text": "Ukingoni Mwa Tordani "
+    },
+    {
+      "ID": 38,
+      "Guid": "6UBeOfKI6U2mkZChHu78OQ",
+      "Verses": [
+        {
+          "Text": "Mahali pa maji mazuri maji ya uzima;  anapotungoja Yesu tutakaribishwa. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Mahali pa maji mazuri, penye maji ya uzima;  tutakaa na Mwokozi, chemchemi ya uzima. "
+        },
+        {
+          "ID": 2,
+          "Text": "Tunapochoka safarini, tamu kupumzika.  panapo maji ya uzima yatufurahisha. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Mahali pa maji mazuri, penye maji ya uzima;  tutakaa na Mwokozi, chemchemi ya uzima. "
+        },
+        {
+          "ID": 3,
+          "Text": "Una kiu? Uje kwa Yesu, utaburudishwa;  Yesu yu maji ya uzima, unywe,uokoke. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Mahali pa maji mazuri, penye maji ya uzima;  tutakaa na Mwokozi, chemchemi ya uzima. "
+        }
+      ],
+      "Text": "Mahali Pa Maji "
+    },
+    {
+      "ID": 39,
+      "Guid": "BnwSLbMSCECJmjYjrXX2FA",
+      "Verses": [
+        {
+          "Text": "Karibu sana univute, karibu sana daima niwe. Bwana napenda unishike, Unilinde nisitengwe nawe, Unilinde nisitengwe nawe. "
+        },
+        {
+          "ID": 2,
+          "Text": "Karibu sana, sina kitu, Sina sadaka kwa Bwana Yesu, Isipokuwa moyo wangu: Uutakase katika damu, Uutakase katika damu. "
+        },
+        {
+          "ID": 3,
+          "Text": "Karibu sana wewe, wewe nami, Nitafurahi kuacha Dhambi Anasa zote na kiburi: Nipe Yesu niliye msulibi, Nipe Yesu niliye msulibi. "
+        },
+        {
+          "ID": 4,
+          "Text": "Karibu sana, hata mwisho. Hata mbinguni nisimamapo: Daima dawamu niwepo Nitakapoona uso wako, Nitakapoona uso wako. "
+        }
+      ],
+      "Text": "Karibu Sana "
+    },
+    {
+      "ID": 40,
+      "Guid": "vtjzk0ZbfEyHtZ3VxgTacA",
+      "Verses": [
+        {
+          "Text": "Mwamba wenye imara, kwako nitajificha! Maji hayo na damu yaliyotoka humu, \nHunisafi na dhambi, hunifanya m-shindi, hunisafi na dhambi, hunifanya m-shindi."
+        },
+        {
+          "ID": 2,
+          "Text": "Kwa kazi zote pia sitimizi sheria, nijapofanya bidii, nikilia na kudhii, \nHayaishi makosa;ndiwe wa kuokoa. hayaishi makosa; ndiwe wa kuokoa."
+        },
+        {
+          "ID": 3,
+          "Text": "Sina cha mkononi,naja msalambani, nili tupu nivike; ni mnyonge, nishike; \nNili mchafu, naja, nioshe nisijafa. Nili mchafu naja, nioshe nisijafa."
+        },
+        {
+          "ID": 4,
+          "Text": "Nikungojapo chini, na kwenda kaburini, Nipaapo mbinguni na kukwona enzini, \nRoho yangu na iwe rahani mwako wewe Roho yangu na iwe rahani mwako wewe"
+        }
+      ],
+      "Text": "Mwamba Wenye Imara "
+    },
+    {
+      "ID": 41,
+      "Guid": "V75QmT3dAEazUukkn86mDw",
+      "Verses": [
+        {
+          "Text": "Nani anayebisha, njoo mkaribie, Je uta,ruhusu, nani aitaye.  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Sikia nyimbo tamu, umfungulie, ukitii wito wake, taka ana wewe."
+        },
+        {
+          "ID": 2,
+          "Text": "Ninaogopa giza, tusikate tamaa Yesu bado abisha, anatusubiri.  "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Sikia nyimbo tamu, umfungulie, ukitii wito wake, taka ana wewe."
+        },
+        {
+          "ID": 3,
+          "Text": "Mfungulie moyo, aingie ndani, hata kinikemea, yu pamoja nami. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Sikia nyimbo tamu, umfungulie, ukitii wito wake, taka ana wewe."
+        }
+      ],
+      "Text": "Nani Anayebisha "
+    },
+    {
+      "ID": 42,
+      "Guid": "0yNJMiPmA0aRc/JVe8KGZg",
+      "Verses": [
+        {
+          "Text": "I heard an old, old story how a Savior came from glory, how He gave His life on Calvary to save a wretch like me; I heard about His groaning, of His precious blood's atoning, then I repented of my sins and won the victory. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "O victory in Jesus, my Savior, forever. He sought me and bought me with His redeeming blood; He loved me ere I knew Him, and all my love is due Him, He plunged me to victory beneath the cleansing flood."
+        },
+        {
+          "ID": 2,
+          "Text": "I heard about His healing, of His cleansing power revealing. How He made the lame to walk again and caused the blind to see; And then I cried, \"Dear Jesus, come and heal my broken spirit,\" And somehow Jesus came and brought to me the victory. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "O victory in Jesus, my Savior, forever. He sought me and bought me with His redeeming blood; He loved me ere I knew Him, and all my love is due Him, He plunged me to victory beneath the cleansing flood."
+        },
+        {
+          "ID": 3,
+          "Text": "O victory in Jesus, my Savior, forever. He sought me and bought me with His redeeming blood; He loved me ere I knew Him, and all my love is due Him, He plunged me to victory beneath the cleansing flood. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "O victory in Jesus, my Savior, forever. He sought me and bought me with His redeeming blood; He loved me ere I knew Him, and all my love is due Him, He plunged me to victory beneath the cleansing flood."
+        }
+      ],
+      "Text": "Victory In Jesus "
+    },
+    {
+      "ID": 43,
+      "Guid": "La0j6DsvqE6pGOiUipzcXQ",
+      "Verses": [
+        {
+          "Text": "Mbingu zote zahubiri habari zako tukufu, nyota zote zanawiri, nazo hivi zakusifu nazo hivi zakusifu\n(Sop) Neno lako, la tukufu, halitasimama, milele hata milele, sifa zako zitavuma, Mile-le mile-le,  zavuma mile-le sifa zitavuma, zitavuma, mile-le mile-le hazitasimama "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "(Alto/Bass) Neno lako la tukufu halitasimama, Milele hata Milele—Sifa zako zitavuma, mile-le, sifa zako Bwana na zitavuma, wala hazitasima, Milele, sifa zako zitavuma.. zitavuma- zitavuma- hazitasimama\n(Tenor) neno lako la tukufu, na litasimama, milele hata milele, sifa zako zitamuma, mile-le, mile-le zavuma, sifa zitavuma, zitavuma, zitavuma, milele milele, hazitasimama"
+        },
+        {
+          "ID": 2,
+          "Text": "Nalo jua lingaavyo nuru ya mchana iko nao mwezi vivyo hivyo, vinakiri nguvu zako vinakiri nguvu zako"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "(Alto/Bass) Neno lako la tukufu halitasimama, Milele hata Milele—Sifa zako zitavuma, mile-le, sifa zako Bwana na zitavuma, wala hazitasima, Milele, sifa zako zitavuma.. zitavuma- zitavuma- hazitasimama\n(Tenor) neno lako la tukufu, na litasimama, milele hata milele, sifa zako zitamuma, mile-le, mile-le zavuma, sifa zitavuma, zitavuma, zitavuma, milele milele, hazitasimama"
+        },
+        {
+          "ID": 3,
+          "Text": "Jua mwezi nyota zote, vinatembea winguni, siku zote na popote, zakusifu u winguni  za kusifu u winguni"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "(Alto/Bass) Neno lako la tukufu halitasimama, Milele hata Milele—Sifa zako zitavuma, mile-le, sifa zako Bwana na zitavuma, wala hazitasima, Milele, sifa zako zitavuma.. zitavuma- zitavuma- hazitasimama\n(Tenor) neno lako la tukufu, na litasimama, milele hata milele, sifa zako zitamuma, mile-le, mile-le zavuma, sifa zitavuma, zitavuma, zitavuma, milele milele, hazitasimama"
+        }
+      ],
+      "Text": "Mbingu Zote "
+    },
+    {
+      "ID": 44,
+      "Guid": "pvhwcnCLrU+Vpsg2RA/5dg",
+      "Verses": [
+        {
+          "Text": "Yesu huleta furaha na upendo, pale penye amani na utulivu, neno linatufundisha, kuishi kwa kupendana, tufukuze giza kwa pendo la kweli. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Penye pendo, nuru yang'aa, moyo wachangamka pendo latawala, penye pendo, hakuna vita, furaha amani ndivyo vyatawala. "
+        },
+        {
+          "ID": 2,
+          "Text": "Giza huzuni vyote vitatoweka, mizigo ya dhambi yote tutatua, nuru ya Yesu itang'aa, kwenye nyuso zetu zote, tutapata baraka kwa pendo lake. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Penye pendo, nuru yang'aa, moyo wachangamka pendo latawala, penye pendo, hakuna vita, furaha amani ndivyo vyatawala. "
+        },
+        {
+          "ID": 3,
+          "Text": "Ulimwengu utajua tu wa yesu, kama tukipendana kwa roho moja, tukionyesha \nmfano, wa mbingu iliyo moja, mungu atatukuzwa kwa sifa kuu."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Penye pendo, nuru yang'aa, moyo wachangamka pendo latawala, penye pendo, hakuna vita, furaha amani ndivyo vyatawala. "
+        },
+        {
+          "ID": 4,
+          "Text": "(Ni upendo, waangaza, moyo waweza kuiomba kwa upend oni upendo waangaza wengine tuwafikie kwa upendo)"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Penye pendo, nuru yang'aa, moyo wachangamka pendo latawala, penye pendo, hakuna vita, furaha amani ndivyo vyatawala. "
+        }
+      ],
+      "Text": "Penye Pendo "
+    },
+    {
+      "ID": 45,
+      "Guid": "E+8TzR2PGkGSmo8Ug0KZag",
+      "Verses": [
+        {
+          "Text": "God, give us Christian homes! Homes where the Bible is loved and taught, Homes where the Master's will is sought, Homes crowned with beauty Your love has wrought; God, give us Christian homes; God, give us Christian homes!"
+        },
+        {
+          "ID": 2,
+          "Text": "God, give us Christian homes! Homes where the father is true and strong, Homes that are free from the blight of wrong, Homes that are joyous with love and song; God, give us Christian  homes; God, give us Christian homes!"
+        },
+        {
+          "ID": 3,
+          "Text": "God, give us Christian homes! Homes where the mother, in caring quest, Strives to show others Your way is best, Homes where the Lord is an honored guest; God, give us Christian homes; God, give us Christian homes!"
+        },
+        {
+          "ID": 4,
+          "Text": "God, give us Christian homes! Homes where the children are led to know Christ in His beauty who loves them so, Homes where the altar fires burn and glow; God, give us Christian homes; God, give us Christian homes!"
+        }
+      ],
+      "Text": "Christian Homes "
+    },
+    {
+      "ID": 46,
+      "Guid": "pFfDnUs0vkudfUVS4h8SQw",
+      "Verses": [
+        {
+          "Text": "Unison once and Harmony twice) Yeso agachandeka 'goro mosalaba, kabokia amagombo karera eroi omonene tontiga. Obee, obee tontiga ×2"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kira Moigwe (buna ere achandetwe) ×2 Kairwa o kayaba, kanacherwa ekina, ekina kiogokwa, yeso agakebua ×2 "
+        },
+        {
+          "ID": 2,
+          "Text": "Ekero akorera bange bakaboria, ninki ere akoreera Elija akorangeria, achiche komokonya (Chorus.) \nAgachandeka omosalaba nyore ogotoreka, monene gachandeka, gachandeka, mbarerwe oboronge, konya nasirire mbarerwe oboronge ×2"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kira Moigwe (buna ere achandetwe) ×2 Kairwa o kayaba, kanacherwa ekina, ekina kiogokwa, yeso agakebua ×2 "
+        },
+        {
+          "ID": 3,
+          "Text": "Birato agakana inche nangire inche tindora omotoria kagoitwa (tenor obe ) motoria kagoitwa, motoria kagoitwa. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kira Moigwe (buna ere achandetwe) ×2 Kairwa o kayaba, kanacherwa ekina, ekina kiogokwa, yeso agakebua ×2 "
+        }
+      ],
+      "Text": "Yeso Agachandeka  "
+    },
+    {
+      "ID": 47,
+      "Guid": "jrQmmZ7Fuk6T8Mfz7+QigA",
+      "Verses": [
+        {
+          "Text": "1. Nilikuwa mdhambi Yesu kanijia, mwanga wa mbinguni ukanimulika-a-a. \nUkanihuisha maisha yangu. Mazungungumzo na Yesu yakaniponya-a-a."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "(Tuwe na - bass) Mazungumzo na Mwokozi (kweli - bass) Umwambie shida zako (naye-bass) Tatusikia (na kweli-bass) Atatujibu (sikome-bass) Kumwambia shida zako (kweli-bass) Takuwa karibu nawe (nawe-bass) Uwe na muda wa kuongea naye (uwe sawa-alto/ten)"
+        },
+        {
+          "ID": 2,
+          "Text": "Wakati mwingine ninakata tamaa, na kufunikwa na wingu la mashaka-a-a. \nDhambi zafunika mwanga wa upendo. Mazungumzo naye yatoa mashaka-a-a."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "(Tuwe na - bass) Mazungumzo na Mwokozi (kweli - bass) Umwambie shida zako (naye-bass) Tatusikia (na kweli-bass) Atatujibu (sikome-bass) Kumwambia shida zako (kweli-bass) Takuwa karibu nawe (nawe-bass) Uwe na muda wa kuongea naye (uwe sawa-alto/ten)"
+        },
+        {
+          "ID": 3,
+          "Text": "Huzuni mashaka na hata machozi, Yesu tamaliza akirudi tena, \nKwa njia ya sala jua shida zangu. Mazungumzo na Yesu mambo salama-a-."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "(Tuwe na - bass) Mazungumzo na Mwokozi (kweli - bass) Umwambie shida zako (naye-bass) Tatusikia (na kweli-bass) Atatujibu (sikome-bass) Kumwambia shida zako (kweli-bass) Takuwa karibu nawe (nawe-bass) Uwe na muda wa kuongea naye (uwe sawa-alto/ten)"
+        },
+        {
+          "ID": 4,
+          "Text": "(Now Let us) Have a little talk with Jesus (Let us) Tell Him all about our troubles\n(He will) hear our faintest cry (And He will) answer by and by\n(And when you) feel a little prayer wheel turnin' (And you) know a little fire is burnin'\n(You will) find a little talk with Jesus makes it right"
+        }
+      ],
+      "Text": "Mazungumzo Na Yesu "
+    },
+    {
+      "ID": 48,
+      "Guid": "X6xD+n+PmU2r5ZVCgiWdYA",
+      "Verses": [
+        {
+          "Text": "Kuwa wake Yesu, Je! Ni kusudi lako? Ungeenda naye njia nyembamba? Unataka aubebe mzigo wako? Awe Mwongozi wako."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Uwezo wake unakutosha Na damu yake inakusafi; Kwa vile ukubali ni bora afanye mapenzi yake nawe."
+        },
+        {
+          "ID": 2,
+          "Text": "Unataka kuitika anapokwita? Kupata amani kwa kumpa vyote? Wataka uwezo usianguke kamwe? Awe Mwongozi wako."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Uwezo wake unakutosha Na damu yake inakusafi; Kwa vile ukubali ni bora afanye mapenzi yake nawe."
+        },
+        {
+          "ID": 3,
+          "Text": "Wataka raha katika ufalme wake? Ungeshinda kwa majaribu yote? Ungefanya kazi yake vizuri sana? Awe Mwongozi wako."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Uwezo wake unakutosha Na damu yake inakusafi; Kwa vile ukubali ni bora afanye mapenzi yake nawe."
+        }
+      ],
+      "Text": "Kuwa Wake Yesu "
+    },
+    {
+      "ID": 49,
+      "Guid": "Tjg5N03EMEWWYK8Gifz3tw",
+      "Verses": [
+        {
+          "Text": "Twarema emegondo, Na koyebusura, Nyasae orw`embura, N`oborendi obuya; Areta riberera, Areta `mbokendu, `Mbe`engiya n`omobaso, N`embura y`okwamia"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Ebiegw`ebiya, Nigoro bikorwa, Mbuya, Mbuy` as`Omonene, `s`obwanchani bwaye."
+        },
+        {
+          "ID": 2,
+          "Text": "Mbuya, Tat`Omwachani, As`amaya onsi, Risimeka, rigesa, `Bogima, `ndagera; Ntobwati ebitorarwe, As`obwancham obo, Ko ekioganeti`Aye, Ne chinkoro chiato."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Ebiegw`ebiya, Nigoro bikorwa, Mbuya, Mbuy` as`Omonene, `s`obwanchani bwaye."
+        },
+        {
+          "ID": 3,
+          "Text": "Titokoba `abande, Bun`Er`atoeire! Tobakony`abanto, Kogenda Igoro; Torw`esadaka yaito, Yangoyi `abotomwa, Bwa Kristo im`as`ense, N`ogotoreka bo."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Ebiegw`ebiya, Nigoro bikorwa, Mbuya, Mbuy` as`Omonene, `s`obwanchani bwaye."
+        }
+      ],
+      "Text": "Twarema Emegondo "
+    },
+    {
+      "ID": 50,
+      "Guid": "gEvgWfXAekOZlHCPBd+4fQ",
+      "Verses": [
+        {
+          "Text": "How excellent, how excellent is thy loving kindness: is thy loving kindness oh God! How excellent how excellent is thy loving kindness, is thy loving kindness oh oh God!"
+        },
+        {
+          "ID": 2,
+          "Text": "Therefore the children of men; therefore the children of me, put their trust; put their trust under the shadow of thy wings"
+        },
+        {
+          "ID": 3,
+          "Text": "(Sop, Alto)They shall be abundantly satisfied, they shall be abundantly satisfied, they shall be abundantly satisfied with the fullness of thy house, and, thou shall make them drink of the river of Thy pleasure, and thou shall make them drink of the river of Thy pleasure."
+        },
+        {
+          "ID": 4,
+          "Text": "(Tenor,) Oh! Continue Thy loving kindness: Oh! Continue Thy loving kindness unto them that know Thee: unto them that know Thee: and they righteousness to the upright in heart. \nHow excellent; how excellent is thy loving kindness, is thy loving kindness oh oh God!"
+        },
+        {
+          "ID": 5,
+          "Text": "(Bass) How excellent \nHow excellent, how excellent is- Thy -lo -ving- kind---ness—Oh God\n(Bass) How excellent \nHow excellent, how excellent is- Thy -lo -ving- kind---ness—Oh God"
+        }
+      ],
+      "Text": "How Excellent "
+    },
+    {
+      "ID": 51,
+      "Guid": "rpTYTLQlC0Oq++65yFgGrw",
+      "Verses": [
+        {
+          "Text": "Yanipasa kuwa naye, Mwokozi Bwana wangu. Akiwa karibu nami, napata nguvu kweli."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Moyo hauogopi, wala kutikisika. Nitakwenda apendapo, kwa kuwa anilinda."
+        },
+        {
+          "ID": 2,
+          "Text": "Yanipasa kuwa naye, kwani nategemea; Anaweza kufariji na maneno matamu."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Moyo hauogopi, wala kutikisika. Nitakwenda apendapo, kwa kuwa anilinda."
+        },
+        {
+          "ID": 3,
+          "Text": "Yanipasa kuwa naye maisha yangu yote; Yakiwapo majaribu na mashaka yo yote."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Moyo hauogopi, wala kutikisika. Nitakwenda apendapo, kwa kuwa anilinda."
+        },
+        {
+          "ID": 4,
+          "Text": "Yanipasa kuwa naye katika njia zangu; Macho yake yaongoza hatua zangu zote."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Moyo hauogopi, wala kutikisika. Nitakwenda apendapo, kwa kuwa anilinda."
+        }
+      ],
+      "Text": "Yanipasa Kuwa Naye "
+    },
+    {
+      "ID": 52,
+      "Guid": "cV+SJa65w0Og3IyBtecSoQ",
+      "Verses": [
+        {
+          "Text": "Men strive for the wealth of this wide wicked world, they seek after honour and fame (worldly fame), so lavishly sporting their diamonds and pearls, they put their dear saviour to shame:"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Alto: I'd rather live in heaven, than to own all earth's silver and gold, I'd rather have Jesus, than the diamonds of a palace to hold, I'd rather be a beggar, live in a little shack by the road, than to own, all earth's treasures, with no title to a future abode. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Sop, tenor, bass: I'd rather live, in that bright city, own, earth, silver and gold, I'd rather have, Jesus my saviour, than, a palace to hold, I'd rather be, just a poor beggar, live, in a shack by the road, than here to own, all of earth's treasures, with no title, to a future abode. "
+        },
+        {
+          "ID": 2,
+          "Text": "They seem not to know that their treasures will rust, and thieves often break through to steal (often steal) contented with pleasure they follow their lust, with sorrow their destiny seal:"
+        },
+        {
+          "ID": 3,
+          "Text": "What profit is found in earth's silver and gold, how sad at the close of life's day (fleeting day), if for the exchange one must lose his own soul, from heaven's door be turned away:"
+        }
+      ],
+      "Text": "I'd Rather Have Jesus: "
+    },
+    {
+      "ID": 53,
+      "Guid": "tgkIdTaijEeVx/oBAhEB+w",
+      "Verses": [
+        {
+          "Text": "Nimeshiriki kifo na yesu, naishi naye maisha mapya, mwonapo naona utukufu, kila saa bwana mimi ni wako."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kila saa nadumu pendoni, napata uzima toka juu, nimwonapo naona utukufu, kila saa bwana mimi ni...wako."
+        },
+        {
+          "ID": 2,
+          "Text": "Kwenye majaribu yupo nami, mizigo yote anachukua, huzuni nao anashiriki, kila saa yeye ananilinda."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kila saa nadumu pendoni, napata uzima toka juu, nimwonapo naona utukufu, kila saa bwana mimi ni...wako."
+        },
+        {
+          "ID": 3,
+          "Text": "Kwa moyo unao uma yupo, waliao watakombolewa, hata panapo hatari yupo, kila saa yeye atukumbuka."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kila saa nadumu pendoni, napata uzima toka juu, nimwonapo naona utukufu, kila saa bwana mimi ni...wako."
+        },
+        {
+          "ID": 4,
+          "Text": "Anachukua unyonge wetu,maradhi yote anayaponya,kila saa kwa shida huwa nami,bwana wangu yesu yupo nami."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kila saa nadumu pendoni, napata uzima toka juu, nimwonapo naona utukufu, kila saa bwana mimi ni...wako."
+        }
+      ],
+      "Text": "Kila Saa"
+    },
+    {
+      "ID": 54,
+      "Guid": "EhqfY+PRb0K1F2bKstsBOA",
+      "Verses": [
+        {
+          "Text": "Uwe nuruni kwenye safari,kwenye milima na mabonde.Yesu asema hatatuacha usimwache akusihi."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Nuru ya mbingu, Nuru ya Mbingu, utukufu umefurika, Haleluya ninafurahi nitamwimbia Yesu wangu×2"
+        },
+        {
+          "ID": 2,
+          "Text": "Nimezungukwa na giza nene, sikumtambua Mwokozi yeye ni nuru hakuna giza nitatembea naye bwana."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Nuru ya mbingu, Nuru ya Mbingu, utukufu umefurika, Haleluya ninafurahi nitamwimbia Yesu wangu×2"
+        },
+        {
+          "ID": 3,
+          "Text": "Nafurahia nuru ya Yesu makao yameandaliwa naimba sifa zake Mwokozi natembea nuruni mwake"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Nuru ya mbingu, Nuru ya Mbingu, utukufu umefurika, Haleluya ninafurahi nitamwimbia Yesu wangu×2"
+        }
+      ],
+      "Text": "Nuru Ya Mbingu "
+    },
+    {
+      "ID": 55,
+      "Guid": "wtRpgiRZtk2syq1RuScqsg",
+      "Verses": [
+        {
+          "Text": "Yesu kwetu ni rafiki, wambiwa haja pia, tukiomba kwa Baba ye Maombi asikia-a"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Yesu Yesu namwamini nimemwona dhabiti Yesu Yesu yu thamani ahadi zake kweli."
+        },
+        {
+          "ID": 2,
+          "Text": "Una dhiki na maonjo, una mashaka pia? uu, haifai kufa moyo, Dua atasikia -a "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Yesu Yesu namwamini nimemwona dhabiti Yesu Yesu yu thamani ahadi zake kweli."
+        },
+        {
+          "ID": 3,
+          "Text": "Nafurahi kwa sababu, nimekutegemea, yesu mpendwa na rafiki, uwe nami dawamu, (damamu-uu)"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Yesu Yesu namwamini nimemwona dhabiti Yesu Yesu yu thamani ahadi zake kweli."
+        }
+      ],
+      "Text": "Yesu Kwetu Ni Rafiki "
+    },
+    {
+      "ID": 57,
+      "Guid": "2QXz4yS+ZUCTeLQ+97uNgw",
+      "Verses": [
+        {
+          "Text": "Pale edeni ndoa ilianzishwa, wazo la mungu tangu mwanzo, si vema mwanaume awe peke yake, akapewa ubavu wake akasema huyu, mfupa wa mifupa yangu(tena) huyu, ni nyama ya nyama yangu. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Amupataye mke mwema hupata kitu kizuri kwa bwana, (tena) upendo wa kweli hudumu furahi maisha yenu ya ndoa, muwe mbingu ndogo, kielelezo na msamehe, maombi yasikose kuwa miongoni mwenu ndoa, kwa neema itadumu. "
+        },
+        {
+          "ID": 2,
+          "Text": "Mungu huwapenda wanandoa wote, huwafundisha njia zake, huwapa hekima ya kushinda dhoruba, na kuwapa matumaini, kwa maana, ndoa, inazo changamoto zake, (kwake) yesu familia tanawiri. "
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Amupataye mke mwema hupata kitu kizuri kwa bwana, (tena) upendo wa kweli hudumu furahi maisha yenu ya ndoa, muwe mbingu ndogo, kielelezo na msamehe, maombi yasikose kuwa miongoni mwenu ndoa, kwa neema itadumu. "
+        },
+        {
+          "ID": 3,
+          "Text": "Familia ni taa ya ulimwengu, angaza taifa lipone, watoto na wakuzwe kwa misingi yetu, ya Imani, wakajikite kwa maana wao, ni tumaini la vizazi (tena) kwao tunajivunia kesho."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Amupataye mke mwema hupata kitu kizuri kwa bwana, (tena) upendo wa kweli hudumu furahi maisha yenu ya ndoa, muwe mbingu ndogo, kielelezo na msamehe, maombi yasikose kuwa miongoni mwenu ndoa, kwa neema itadumu. "
+        }
+      ],
+      "Text": "Pale Edeni "
+    },
+    {
+      "ID": 58,
+      "Guid": "2eAkUx5NvUif+wQL5SpRBw",
+      "Verses": [
+        {
+          "Text": "Mungu wetu wa milele, Twainua sauti zetu mbele zako, we ni Alfa na Omega, we Mwanzo tena mwisho, we ni Alfa na Omega, we mwanzo tena mwisho"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "(Sop, Alto)Tukikumbuka chanzo cha pambano kuu, uasi mkubwa ulioanza mbinguni, na yule joka kaanzisha vita mbinguni, upendo wake yesu ukadhihirika x2"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "(Tenor) Yule hoka uasi mkubwa ulioanza mbinguni, ushindi kwake Yesu, uoendo wake Yesu ukadhihirika x2\n(Bass) Joka mdanganyifu uasi mkubwa ulioanza mbinguni, ushindi kwake Yesu, upendo wake Yesu ukadhihirika x2"
+        },
+        {
+          "ID": 2,
+          "Text": "Mungu wetu wa milele, kwa upendo aliumba mwandamu, aliwekwa shamba edeni ilivyo mpendeza Mungu, aliwekwa shamba edeni, ilivvyo mpendenza Mungux2"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Sop Alto: Kaja Shetani chanzo cha pambano kuu, akamdang’anya Hawa akakula tunda, kisha Adamu naye akapewa tunda kinyume na amri waliyopewa na Mungu x2"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Tenor: Yule joka akamdanganya akakula tunda  kule ni nawe tund kinyume na amri waliopewa na Mungux2\nBass: Joka mdanganyifu akamdangaya Awa akakula tunda kule ni nawe tunda kinyume na amri waliyopewa na Mungu"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "(Tenor Bass: Je ni nani aende, aokoe binadamu )Ni swali lililo ngumu mbingu zote zikanyamaza, ni swali lililo ngumu mbingu zote zikanyama x2"
+        },
+        {
+          "ID": 3,
+          "Text": "Kwa maana jinsi hii, Mungu alitupenda, akamtoa mwana wake, aje atufilie. Na yeyote aminiye, naye asipotee, bali awe na uzima, uzima ule wa milele.×2\nKaribuni anarudi, jinsi aliahidi. Shida zetu zitakoma tuishi naye milele.×2"
+        }
+      ],
+      "Text": "Pambano Kuu "
+    },
+    {
+      "ID": 59,
+      "Guid": "FbKqPzhIxUGkrwcznK/sBw",
+      "Verses": [
+        {
+          "Text": "Ker erioba riagure, Mosunt otubir` ense Ching`enang`eni kobara Motogie Omotongi bw`obotuko."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "`Mochenu Nyasae, bw`emegandaGwaichoire Igoro n`ense, Bionsi bikobak` Aye Tat`o Igoro."
+        },
+        {
+          "ID": 2,
+          "Text": "Omonyen` obogima, Menyet oboiko bwonsi Tosangereri` abao, Ase riicho riao, ng`ang`e ore."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "`Mochenu Nyasae, bw`emegandaGwaichoire Igoro n`ense, Bionsi bikobak` Aye Tat`o Igoro."
+        },
+        {
+          "ID": 3,
+          "Text": "Bwanchani bwa` obonge, Bobe naintwe botukoGator` ase chitoro, chiche im as` omoika, Togosaba."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "`Mochenu Nyasae, bw`emegandaGwaichoire Igoro n`ense, Bionsi bikobak` Aye Tat`o Igoro."
+        },
+        {
+          "ID": 4,
+          "Text": "Kero ching`enang`eni, Rituko n`obotuko Biaetire korw` ense, Monene nabonkiere, Botaire."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "`Mochenu Nyasae, bw`emegandaGwaichoire Igoro n`ense, Bionsi bikobak` Aye Tat`o Igoro."
+        }
+      ],
+      "Text": "Ker’erioba Riagure "
+    },
+    {
+      "ID": 60,
+      "Guid": "Id/xkUiaeEaVTHLIzbaRrw",
+      "Verses": [
+        {
+          "Text": "1.Upendo wa mungu ni mkuu unapita lugha zote, unapita nyota zote, hata vilindi virefu, adamu alipokosa, mungu akamtuma, mwana wake, ampendaye,awe mkombozi."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Upendo huu wa ajabu, kwetu wenye dhambi, tutaimba sifa zake, milele na milele\nUpendo huu wa ajabu, kwetu wenye dhambi, tutaimba sifa zake, milele na milele"
+        },
+        {
+          "ID": 2,
+          "Text": "Hofu na tabu, zipite,na falme zote zishuke, wanadamu wasitubu, kutoweka kwenye miamba, upendo wa bwana yesu, wenye nguvu tele, katuokoa dhambini, tukawa huru sote."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Upendo huu wa ajabu, kwetu wenye dhambi, tutaimba sifa zake, milele na milele\nUpendo huu wa ajabu, kwetu wenye dhambi, tutaimba sifa zake, milele na milele"
+        },
+        {
+          "ID": 3,
+          "Text": "Bahari na iwe wino, mbingu ziwe karatasi, miti na iwe kalamu, kila mtu, ni mwandishi, kuandika pendo hili, wino ungekwisha, na mbingu zisingetosha, kuelezea pendo."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Upendo huu wa ajabu, kwetu wenye dhambi, tutaimba sifa zake, milele na milele\nUpendo huu wa ajabu, kwetu wenye dhambi, tutaimba sifa zake, milele na milele."
+        }
+      ],
+      "Text": "Upendo Wa Mungu "
+    },
+    {
+      "ID": 61,
+      "Guid": "C9hI9vOxJEexXgEhEJZt2A",
+      "Verses": [
+        {
+          "Text": "Mioyo yetu inasubiri,siku ya kurudi kwa Bwana, aliahidi atarudi tena,kutupeleka mbinguni, aliahidi atarudi tena,kutupeleka mbinguni"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "tukifika juu mbinguni(furaha)\nIsiyokuwa kifani(milele)\nHapana machozi kamwe(hapana)\nWala kutengana tena,\nBwana yesu tatulaki(tulaki)\nSote tumeshinda vita (washindi)\nIngieni raha ile(ya milele)."
+        },
+        {
+          "ID": 2,
+          "Text": "Shika sana, ulicho nacho, mtu asije kupokonya, dhawabu tutapata watu wake, kama alivyoahidi, dhawabu tutapata watu wake, kama alivyoahidi"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "tukifika juu mbinguni(furaha)\nIsiyokuwa kifani(milele)\nHapana machozi kamwe(hapana)\nWala kutengana tena,\nBwana yesu tatulaki(tulaki)\nSote tumeshinda vita (washindi)\nIngieni raha ile(ya milele)."
+        }
+      ],
+      "Text": "Mioyo Yetu Inasubiri "
+    },
+    {
+      "ID": 62,
+      "Guid": "qVmzFqjO9UmPRTL8gZixQQ",
+      "Verses": [
+        {
+          "Text": "1. Where will you spend eternity? This question comes to you and me, \nTell me what shall your answer be? Where will you spend eternity!"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Eternity, eternity, where will you spend eternity?"
+        },
+        {
+          "ID": 2,
+          "Text": "Many are choosing Christ today, turning from all their sins away, \nHeaven shall their happy portion be? Where will you spend eternity?"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Eternity, eternity, where will you spend eternity?"
+        },
+        {
+          "ID": 3,
+          "Text": "Leaving the strait and narrow way, going the downward road today, \nSad will their final ending be, lost through along eternity!"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Eternity, eternity, where will you spend eternity?"
+        },
+        {
+          "ID": 4,
+          "Text": "Repent, believe, this very hour, trust in the saviour's grace and power, \nThen will your joyous answer be, saved through along eternity!"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Eternity, eternity, where will you spend eternity?"
+        }
+      ],
+      "Text": "Eternity"
+    },
+    {
+      "ID": 63,
+      "Guid": "yreoLrD/ok6KC0OmQRMpeg",
+      "Verses": [
+        {
+          "Text": "Yelusalemi yenseye ekababwata abatomwa ekero bare korandia enchili yaye, hosana omonene bakanyora eng'eria."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kero agendete igoro barokiwa bakarera x2 indi orache gotwoyia otoire igoro erio tomenye ense'nyia 'kare gocha yomwando."
+        },
+        {
+          "ID": 2,
+          "Text": "Bakababeka 'se 'chera yobosomba barendwe malaika omonene akabarusia  bagachaka korandia enchili yaye omonene."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kero agendete igoro barokiwa bakarera x2 indi orache gotwoyia otoire igoro erio tomenye ense'nyia 'kare gocha yomwando."
+        },
+        {
+          "ID": 3,
+          "Text": "Moinyore ere Paulo ker' arenge korandia bakamobeka sechera echera ekaigoka erio agasoa obwato agachia korandia Rumi."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Kero agendete igoro barokiwa bakarera x2 indi orache gotwoyia otoire igoro erio tomenye ense'nyia 'kare gocha yomwando."
+        }
+      ],
+      "Text": "Yerusalemu"
+    },
+    {
+      "ID": 64,
+      "Guid": "+qKZF8buNU2oAUnfMlaQOg",
+      "Verses": [
+        {
+          "Text": "Yesa' kabiata ebirandi bia abaragori x3ekiagero' siboirwe korwa ime ye bibe."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Natochenge totere haleluya x3 ekiagero' siboirwe korwa ime yebibe."
+        },
+        {
+          "ID": 2,
+          "Text": "Chikarwao chindege chiabaragori x3 ekiagero' siboirwe korwa ime yebibe."
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Natochenge totere haleluya x3 ekiagero' siboirwe korwa ime yebibe."
+        },
+        {
+          "ID": 3,
+          "Text": "Yesa' kabwenia ebirema nemeuko x3 ekiagero' siboirwe korwa ime yebibe"
+        },
+        {
+          "Tag": 1,
+          "ID": 0,
+          "Text": "Natochenge totere haleluya x3 ekiagero' siboirwe korwa ime yebibe."
+        }
+      ],
+      "Text": "Yeso Akabiata "
+    },
+    {
+      "ID": 65,
+      "Guid": "La+FYDCQvUG3PwPq74IA1w",
+      "Verses": [
+        {
+          "Text": "And the Glory the Glory of the Lord\nAnd the Glory the Glory of the Lord\nShall be revealed (shall be revealed)\nAnd the Glory, the glory of the Lord (shall be revealed)\nShall be reveal′d\nAnd the Glory, the Glory of the Lord\nShall be revealed"
+        },
+        {
+          "ID": 2,
+          "Text": "And all flesh shall see it together (and all flesh shall see it together)\nFor the mouth of the lord hath spoken\nAnd all flesh shall see it together, and all flesh shall see it together"
+        },
+        {
+          "ID": 3,
+          "Text": "And the Glory, the Glory of the Lord\nAnd all flesh shall see it together\nAnd the Glory, the Glory of the Lord\nShall be revealed"
+        },
+        {
+          "ID": 4,
+          "Text": "And all flesh, all flesh, all flesh shall see it together\nAnd the Glory, Glory of the Lord\nShall be revealed\nAnd all flesh, all flesh, all flesh shall see it together\nAnd the Glory the Glory the Glory of the Lord\nShall be revealed (shall be revealed)"
+        },
+        {
+          "ID": 5,
+          "Text": "And all flesh shall see it together\nFor the mouth of the Lord hath spoken it\nFor the mouth of the Lord, the mouth of the Lord hath spoken it"
+        }
+      ],
+      "Text": "And The Glory of the Lord "
+    }
+  ],
+  "Guid": "IGS/1cUvB0S8aSotYgMQrA",
+  "Text": "KNL SDA CHOIR Lyrics"
+}
